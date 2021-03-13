@@ -2,6 +2,7 @@
     <head>
         <title>Студия дизайна</title>
         <link rel="slylesheet"href="style.css"/>
+    </head>
     <body>
         <header>
             <img src="https://mars.algoritmika.org/uploads/2020/11/logo_0_1606475988.png"/>
@@ -24,5 +25,4 @@
             <p>Тел.: 8895-6341</p>
         </footer>
     </body>
-    </head>
 </html>
